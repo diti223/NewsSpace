@@ -1,2 +1,2 @@
 # NewsSpace
-Demo of MVVM
+Demo of simple app, using MVVM
